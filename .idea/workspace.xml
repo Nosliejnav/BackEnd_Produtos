@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 3-Gerando tabel erros 02" />
+    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD test">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/modelo/RespostaModelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/repositorio/ProdutoRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/servico/ProdutoServico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724362490742</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ADD test">
+      <option name="closed" value="true" />
+      <created>1724362906582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724362906582</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ADD 3-Gerando tabel erros" />
     <MESSAGE value="ADD 3-Gerando tabel erros 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD 3-Gerando tabel erros 02" />
+    <MESSAGE value="ADD test" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD test" />
   </component>
 </project>
