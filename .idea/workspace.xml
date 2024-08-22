@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 7 - Modelo para validar requisições">
+    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 8 - Serviço para listar produtos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/servico/ProdutoServico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/servico/ProdutoServico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724368248303</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ADD 8 - Serviço para listar produtos">
+      <option name="closed" value="true" />
+      <created>1724368654736</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724368654736</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +216,7 @@
     <MESSAGE value="ADD 4 - Configurando repositório" />
     <MESSAGE value="ADD 6 - Configurando controle" />
     <MESSAGE value="ADD 7 - Modelo para validar requisições" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD 7 - Modelo para validar requisições" />
+    <MESSAGE value="ADD 8 - Serviço para listar produtos" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD 8 - Serviço para listar produtos" />
   </component>
 </project>
