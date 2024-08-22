@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 4 - Configurando repositório">
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControler.java" afterDir="false" />
+    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 6 - Configurando controle">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/modelo/RespostaModelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/modelo/RespostaModelo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724367495854</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ADD 6 - Configurando controle">
+      <option name="closed" value="true" />
+      <created>1724367929633</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724367929633</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ADD 6 - Configurando controle">
+      <option name="closed" value="true" />
+      <created>1724367972124</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724367972124</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +198,7 @@
     <MESSAGE value="ADD test" />
     <MESSAGE value="ADD 4 - Estrutura de pastas e arquivos do projeto fundamentais" />
     <MESSAGE value="ADD 4 - Configurando repositório" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD 4 - Configurando repositório" />
+    <MESSAGE value="ADD 6 - Configurando controle" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD 6 - Configurando controle" />
   </component>
 </project>
