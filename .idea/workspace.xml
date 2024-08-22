@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD test">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/modelo/RespostaModelo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/repositorio/ProdutoRepositorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/servico/ProdutoServico.java" afterDir="false" />
+    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 4 - Estrutura de pastas e arquivos do projeto fundamentais">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/repositorio/ProdutoRepositorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/repositorio/ProdutoRepositorio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724362906582</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ADD 4 - Estrutura de pastas e arquivos do projeto fundamentais">
+      <option name="closed" value="true" />
+      <created>1724365887142</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724365887142</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +172,7 @@
     <MESSAGE value="ADD 3-Gerando tabel erros" />
     <MESSAGE value="ADD 3-Gerando tabel erros 02" />
     <MESSAGE value="ADD test" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD test" />
+    <MESSAGE value="ADD 4 - Estrutura de pastas e arquivos do projeto fundamentais" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD 4 - Estrutura de pastas e arquivos do projeto fundamentais" />
   </component>
 </project>
