@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 11 - Rota para cadastrar produtos">
+    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 12 - Serviço para alterar produtos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/servico/ProdutoServico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/servico/ProdutoServico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724446283714</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ADD 12 - Serviço para alterar produtos">
+      <option name="closed" value="true" />
+      <created>1724446811038</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724446811038</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +252,7 @@
     <MESSAGE value="ADD 9 - Rota para listar produtos" />
     <MESSAGE value="ADD 10 - Serviço para cadastrar produtos" />
     <MESSAGE value="ADD 11 - Rota para cadastrar produtos" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD 11 - Rota para cadastrar produtos" />
+    <MESSAGE value="ADD 12 - Serviço para alterar produtos" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD 12 - Serviço para alterar produtos" />
   </component>
 </project>
