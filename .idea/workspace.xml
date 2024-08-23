@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 14 - Serviço para remover produtos">
+    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 15 - Rota para alterar produtos">
+      <change afterPath="$PROJECT_DIR$/CORS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,6 +56,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ProdutosApplication.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -229,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724448140450</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ADD 15 - Rota para alterar produtos">
+      <option name="closed" value="true" />
+      <created>1724448550862</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1724448550862</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +282,7 @@
     <MESSAGE value="ADD 12 - Serviço para alterar produtos" />
     <MESSAGE value="ADD 13 - Rota para alterar produtos" />
     <MESSAGE value="ADD 14 - Serviço para remover produtos" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD 14 - Serviço para remover produtos" />
+    <MESSAGE value="ADD 15 - Rota para alterar produtos" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD 15 - Rota para alterar produtos" />
   </component>
 </project>
