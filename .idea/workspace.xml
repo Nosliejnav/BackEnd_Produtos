@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 9 - Rota para listar produtos">
+    <list default="true" id="8009b4fa-4791-4d37-bf26-8a33a7486f29" name="Changes" comment="ADD 10 - Serviço para cadastrar produtos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/servico/ProdutoServico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/servico/ProdutoServico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/api/produtos/controle/ProdutoControle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +51,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.ProdutosApplication.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ProdutosApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.api.produtos.modelo" />
@@ -190,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724369638942</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ADD 10 - Serviço para cadastrar produtos">
+      <option name="closed" value="true" />
+      <created>1724370610672</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724370610672</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +235,7 @@
     <MESSAGE value="ADD 7 - Modelo para validar requisições" />
     <MESSAGE value="ADD 8 - Serviço para listar produtos" />
     <MESSAGE value="ADD 9 - Rota para listar produtos" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD 9 - Rota para listar produtos" />
+    <MESSAGE value="ADD 10 - Serviço para cadastrar produtos" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD 10 - Serviço para cadastrar produtos" />
   </component>
 </project>
